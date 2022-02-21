@@ -1,0 +1,5 @@
+C:\Users\Vittorio\Desktop\ViMaCrypt.exe
+C:\Users\Vittorio\Desktop\ViMaCrypt.dll
+C:\Users\Vittorio\Desktop\ViMaCrypt.deps.json
+C:\Users\Vittorio\Desktop\ViMaCrypt.runtimeconfig.json
+C:\Users\Vittorio\Desktop\ViMaCrypt.pdb
