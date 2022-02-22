@@ -1,6 +1,4 @@
-﻿using System;
-using System.Text;
-using System.IO;
+﻿using System.Text;
 
 namespace ViMaCrypt
 {
@@ -19,7 +17,9 @@ namespace ViMaCrypt
  \ \_/ /    | |   | |   | || (   ) || |      | (\ (      ) (   | (         | |   
   \   /  ___) (___| )   ( || )   ( || (____/\| ) \ \__   | |   | )         | |   
    \_/   \_______/|/     \||/     \|(_______/|/   \__/   \_/   |/          )_(   
-                                                                                 
+
+v1.0.0-cupido
+
         ";
         private static string mainMenuString = Utils.dedent(@"
         1) Encrypt
