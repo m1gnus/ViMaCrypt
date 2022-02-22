@@ -135,7 +135,6 @@ v1.0.0-cupido
                     decryptMessage(false);
                     break;
                 case 3:
-                    Environment.Exit(0);
                     break;
             }
         }
